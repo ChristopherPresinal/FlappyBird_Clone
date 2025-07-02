@@ -1,2 +1,12 @@
-Library/
-Library/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+Thumbs.db
